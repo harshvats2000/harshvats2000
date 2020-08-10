@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src='/profile.svg' width='400px />
+![alt][alt](https://raw.githubusercontent.com/harshvats2000/harshvats2000/master/profile.svg)
