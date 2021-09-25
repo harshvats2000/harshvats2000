@@ -10,18 +10,17 @@ Reach me at vatsvatsharsh2000@gmail.com
 
 ### FRONTEND:
 1. HTML + Pug
-2. CSS + SCSS + SASS + Styled Components
-3. Javascript
+2. CSS + SCSS + SASS + Styled Components + TailwindCSS 
+3. Javascript + Typescript
 4. TailwindCSS
 5. Reactjs + Redux
 6. Nextjs + Gatsby
 7. Material-UI
 
 ### BACKEND:
-1. Nodejs
-2. Express
-3. Firebase
-4. MongoDB
+1. Nodejs + Express
+3. Firebase (Auth, firestore, storage, cloud functions)
+4. MongoDB + Mongoose
 
 ### TOOLS:
 1. Git
@@ -30,6 +29,7 @@ Reach me at vatsvatsharsh2000@gmail.com
 4. VScode + Brackets + Sublime
 5. Google Analytics
 6. Webflow
+7. Ngrok to create tunnels
 
 ### DEPLOYMENT EXPERIENCE WITH:
 1. Heroku
@@ -39,6 +39,7 @@ Reach me at vatsvatsharsh2000@gmail.com
 
 ### CMS:
 1. NetlifyCMS
+2. Contentful
 
 ### DESIGN TOOLS:
 1. Figma
