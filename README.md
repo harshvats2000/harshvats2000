@@ -1,6 +1,6 @@
 ### Hi there 👋
 # My name is Harsh Vats.
-Reach me at vatsvatsharsh2000@gmail.com
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-vats-02b210150/)
 
 <img src="https://raw.githubusercontent.com/harshvats2000/harshvats2000/master/profile.svg" width="100%" height="500px" />
 
