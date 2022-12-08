@@ -13,14 +13,20 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-vats-02b210150/)
 2. CSS + SCSS + SASS + Styled Components + TailwindCSS 
 3. Javascript + Typescript
 4. TailwindCSS
-5. Reactjs + Redux
-6. Nextjs + Gatsby
-7. Material-UI
+5. React.js + Redux
+6. Next.js
+7. Gatsby.js
+8. Angular
+9. Material-UI
 
 ### BACKEND:
-1. Nodejs + Express
-3. Firebase (Auth, firestore, storage, cloud functions)
-4. MongoDB + Mongoose
+1. Nodejs
+2. Express.js
+3. Nest.js
+
+### DATABASES:
+1. Firebase (Auth, firestore, storage, cloud functions)
+2. MongoDB + Mongoose
 
 ### TOOLS:
 1. Git
@@ -40,10 +46,13 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-vats-02b210150/)
 ### CMS:
 1. NetlifyCMS
 2. Contentful
+3. Sanity
 
 ### DESIGN TOOLS:
 1. Figma
 2. Canva
-## I love CSS, javascript, Gatsby.js and much more.
+
+
+## I love CSS, javascript, Next.js and much more.
 
 <img src="https://komarev.com/ghpvc/?username=vatsvatsharsh2000&style=flat-square" />
