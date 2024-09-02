@@ -1,10 +1,5 @@
 ### Hi there 👋
-# My name is Harsh Vats.
-Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-vats-02b210150/)
-
-<img src="https://raw.githubusercontent.com/harshvats2000/harshvats2000/master/profile.svg" width="100%" height="500px" />
-
-## A full stack web developer from India 🇮🇳.
+# I'm is Harsh Vats, a full stack web developer from India 🇮🇳.
 
 <br />
 <div align="center">
@@ -90,3 +85,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-vats-02b210150/)
 ## I love CSS, javascript, Next.js and much more.
 
 <img src="https://komarev.com/ghpvc/?username=vatsvatsharsh2000&style=flat-square" />
+
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harsh-vats-02b210150/)
