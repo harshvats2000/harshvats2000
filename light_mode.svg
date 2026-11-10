@@ -1,57 +1,108 @@
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" width="1093" height="556" viewBox="0 0 1093 556" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" width="1053" height="583" viewBox="0 0 1053 583" font-size="16px">
 <style>.key{fill:#953800}.value{fill:#0a3069}.cc{fill:#c2cfde}.text{fill:#24292f}text,tspan{white-space:pre}</style>
-<rect width="1093" height="556" rx="15" fill="#f6f8fa" stroke="#d0d7de"/>
-<text x="18" y="33" class="text" xml:space="preserve">
-<tspan x="18" y="33">                     ,:</tspan>
-<tspan x="18" y="53">              ~fJqpdOahkwr'.:.-|fnt=:~,</tspan>
-<tspan x="18" y="73">           .!ZqppbbdkoMWW&amp;Mz-dp0mqdwO0z|~.</tspan>
-<tspan x="18" y="93">        -tLmOLCzfrxvCwwZbW&amp;WM&amp;M&amp;MMhMM#okwn=</tspan>
-<tspan x="18" y="113">      !uOLO0LLOOZOmO0J0bpm&amp;W#&amp;&amp;khM%%BB%8&amp;&amp;WJ</tspan>
-<tspan x="18" y="133">  -uppqLvzft|ijltn0d#oodObW&amp;&amp;8WM8%%%%%%%%8&amp;&amp;k</tspan>
-<tspan x="18" y="153"> :OkdL1!ii!!i|rt1trxnZo#kwO0C0JCLCObM&amp;8%%%8&amp;&amp;z</tspan>
-<tspan x="18" y="173">,Jh0nQqkhbwQzcf|jljijxnt!ii!iijl|||fJM&amp;8%%%8&amp;h</tspan>
-<tspan x="18" y="193">~Cwa#oaapxt|jjjiiii!***!*!!!iijj|1frra&amp;&amp;8888&amp;r</tspan>
-<tspan x="18" y="213"> jk##oohwr11jjll!!!**++***!!ijl|1trxn#&amp;8MW88a:</tspan>
-<tspan x="18" y="233">   xaookbJtftt1|lji!**+***!ijjl1tfrrfwMM#&amp;Mn,</tspan>
-<tspan x="18" y="253">    |baqqJ1|1lj!!*******!!ilfxnL0Lnx1fdM#W#=</tspan>
-<tspan x="18" y="273">     cbdqfzJCJL0ZmZQJcljcwppqOJct1|fuffhWMh.</tspan>
-<tspan x="18" y="293">     ubhffrrxJOOJLnnucrrxJuCCOkhnQ0nxt1uhod;</tspan>
-<tspan x="18" y="313">    =mpqll|cufLQvCJrxzi!xzcJzu0Czzt11jltbQO1</tspan>
-<tspan x="18" y="333">    =0uq1j!**jlj!**!1xiivxjl1|||||llll1tpCLl</tspan>
-<tspan x="18" y="353">     uftf|j!****!ji|nf!ixvt|llljlllll|1cbpL.</tspan>
-<tspan x="18" y="373">     '|lztlli***!lvzv|jjtvvZrf1||l|1frruwJc</tspan>
-<tspan x="18" y="393">      .=Or|1|iij||1cCpOZdb0r|rxccrrrcxnJJi</tspan>
-<tspan x="18" y="413">        QCc11lji|xvmbmmOZqwqm0OLxrfrcn0w|</tspan>
-<tspan x="18" y="433">        -dQx1llldOmbw0CvLQwddOOhxtxnJmdw</tspan>
-<tspan x="18" y="453">         'ZpvljjcxtfrJmpqOJccfczfcLZk#L</tspan>
-<tspan x="18" y="473">           !ZpLxzvrfxu0dwZJczzn0Qma#L:</tspan>
-<tspan x="18" y="493">             ,n#aaw0t11fc1tfnZaa#&amp;x</tspan>
-<tspan x="18" y="513">                jwB@8aaaapbbh8@kl</tspan>
-<tspan x="18" y="533">                   +cQ#B@@&amp;kCj</tspan>
+<rect width="1053" height="583" rx="15" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="22" y="28.0" class="text" font-size="6px" xml:space="preserve">
+<tspan x="22" y="28.0"></tspan>
+<tspan x="22" y="35.0"></tspan>
+<tspan x="22" y="42.0">                                                  .2#PE           2......       .</tspan>
+<tspan x="22" y="49.0">                                        TPP~ajCC  P@EaE@QCj    T|.........j2...|;E2T</tspan>
+<tspan x="22" y="56.0">                                 jaaCPaaPE#&amp;##Q&amp;#&amp;&amp;&amp;&amp;#2:a##a|c..........aE..;.ca||.....2aa</tspan>
+<tspan x="22" y="63.0">                                   T222PE&amp;E&amp;&amp;&amp;&amp;&amp;&amp;&amp;###QB@BQ#BNP.j.P,2Nc.j..2aa&amp;2#PT.:.......|E</tspan>
+<tspan x="22" y="70.0">                               aE2aaPPaPEE&amp;E&amp;E&amp;EEE&amp;&amp;####QQQ#Q@Q&amp;&amp;....NN.2@E2CP,.Ca#Q@N#B&amp;2c..|C~,</tspan>
+<tspan x="22" y="77.0">                            T;.C2EEaP&amp;&amp;QBBBQQBB@B###&amp;#&amp;##QQQQBB@B;...C@NNaC.22QNEaPC2CcCCP&amp;aa..;..c</tspan>
+<tspan x="22" y="84.0">                         ~...j2EaaPEEEPaj2222C|~2PE@QQ#&amp;####QBQBNNa.;a&amp;@@.C#N2aa&amp;EECCaTC2CCcjCT....~</tspan>
+<tspan x="22" y="91.0">                       .cTaEEPC2aEPaTjTTc2TCCBN#P2:~2EP@QBQQ#QQQQ@NN2N@@P#NB&amp;NN#&amp;a##N@&amp;Ea22CPaTT:...C</tspan>
+<tspan x="22" y="98.0">                    jaCT2aQaa#PP22jcj|;;|;jj;c.:2&amp;NBaj;|~E@@QQQQQ#@NQ@BE@BB@QQ&amp;&amp;#B#EP&amp;QBNNNNNN@QBN&amp;j.a</tspan>
+<tspan x="22" y="105.0">                   ,|TCPCPa22T;|:jcjjcj...~:;.:;.,2Q@NBCj.cEB@QB@P#@BBQ#BBB#&amp;aNNB22QN@@@@BBBQBB##@BNE.</tspan>
+<tspan x="22" y="112.0">                  CaP2PaaC2a222CTT||~;~jc,c,.....;..,CQ@@ac,,BBQBQ2&amp;BB@B@@#PPBPCaNN@@BQ@@@@@@@@@BQQQ@@E.</tspan>
+<tspan x="22" y="119.0">               ;C;|aCj~CaaPPEEPE#BB&amp;PPEa2PPENN#EEaCCT2aaQ@NP:j@#Q@EP@&amp;BBBEaBPTPNNBBB@@@@@@BQ&amp;#EE@@BBQQQ2</tspan>
+<tspan x="22" y="126.0">            .|;aE&amp;NB&amp;P2PEE22Tjc,CCaEQNNN@B#&amp;&amp;EP&amp;&amp;Q&amp;EECc|&amp;E&amp;NNE#Q#BN&amp;EQ@B#QQCaNN@BB@@@@@@@@@@@@@@Q#Q#QQQ&amp;#c</tspan>
+<tspan x="22" y="133.0">         ,|E@@@QaC|T2CT.......,...;...,TaQ@B#####Q&amp;#EP&amp;PjCa&amp;@@B#QQBBB@@@#P2EN@B@@@@@@@@B@@@BB@@B@QQB#BBQ#BT</tspan>
+<tspan x="22" y="140.0">       CE@B##PPCT2Tc;|cTCTc~....,;;~c|;|..|CPNB#&amp;&amp;&amp;##QE@aEC.a@Q&amp;QQQQ#BBB&amp;QN@BQ@@@B@BBBBBBB@B@B@B@BQQQBB@QB#</tspan>
+<tspan x="22" y="147.0">     E@EaP&amp;&amp;,jP@&amp;EEPPP2aCTT&amp;Ca2,.........::,..T&amp;N@Q#&amp;####Bc2C2@QQQQBBQQ#@NBBB@B@BB@QQ@@QBBBB@@@B@BQBQQQBB#@|</tspan>
+<tspan x="22" y="154.0">    T .a#PP##NaT;.......:~,~:|cTT2C..........;...T&amp;NB###&amp;#@QP#EPB@Q@NNNNEQ#BB&amp;@BEQQNBBQ@BBB@B@@B@@@B@QB#QQ@&amp;</tspan>
+<tspan x="22" y="161.0">     EQQEEE#22j~.....|.............Tc|...jc|c.;|,...2B#E&amp;&amp;&amp;@@@@#aP2jc2Ec|TTTTCC2TaP2#&amp;QQQQ#BBBBQ@@B@@BBQQQQB2</tspan>
+<tspan x="22" y="168.0">    E##&amp;aEP2~.....,.............jT2C2PPP2a2CPE#BNNNQa&amp;B@NBCj.......................c22##QQ#BBBBB@@B@BBBBQQQQQ</tspan>
+<tspan x="22" y="175.0">   ECP&amp;#aEa....2B##NNNNNNNNQPPa2Pa2j|;..:..,......C#NN@2;.......,.,,..,.,,~;~;;|,~:~|c2aBQ#QQBB@@@@@@BQBQQQ#@P</tspan>
+<tspan x="22" y="182.0"> j&amp;~a##C2a.~PNNBQ&amp;E&amp;EEE&amp;&amp;aPa2TT:;.,.,..,..~,..,............,~::,,.,:.:,,::;~~|;c~~~|c~jcQ@QQQQBBB@BB@BBBQQBQN;</tspan>
+<tspan x="22" y="189.0"> T aBQPTc.PNB#&amp;&amp;&amp;EE&amp;P&amp;&amp;2C2Cj~~~,;.:,::,~..,,,,.....,.......,..,,.,.,.~:,::~::|;c~|,|c~T;EBBQB@Q@B@@@@BBBQQBBN.</tspan>
+<tspan x="22" y="196.0">: E|B@,P#NQ##EEEEE&amp;&amp;P&amp;jjc:.:~:;,:,~:,..:,:,:.:.........,.,....,..,.:.,::,::~.;;;~c~|c~c~PNQQ#QBBBBQBB@BBQQBNP.</tspan>
+<tspan x="22" y="203.0">  EC#Pj#Q&amp;E&amp;&amp;E&amp;&amp;EEE&amp;&amp;C~,~|:~;.~,:,:~.:.,:,.~,,...,,..........:,..,.,..:,.~:~:~;c~|jcjc;cP&amp;QBQBQBBBB@BBBQQB#N..</tspan>
+<tspan x="22" y="210.0"> ca2P2&amp;#&amp;&amp;&amp;&amp;&amp;&amp;&amp;E&amp;E&amp;#Cj~|c~:~;,:::.~~::....,..:,...............,....,..:.:~:,;;||~jccTj|c#@BQ#&amp;##QB#BQBQBQQE#.j</tspan>
+<tspan x="22" y="217.0">   a2EQ#&amp;&amp;&amp;#&amp;&amp;E&amp;#&amp;&amp;#aC:;c:~:~,:,,::~~:,...:.,......................,,,::~:::|;;|~cTTjj|2@#QQ@BB&amp;Q&amp;##BQQB@B@a~</tspan>
+<tspan x="22" y="224.0">   @.N#B&amp;#&amp;&amp;&amp;#E&amp;#EaBaC|;|~;c~:,,:::,~:.............................,,.:;|||;;|cc|cjTjcjP####QB@QQ&amp;##QQ@BBB@ C</tspan>
+<tspan x="22" y="231.0">   2 &amp;.@#&amp;&amp;#&amp;&amp;E&amp;#&amp;PE2PT~|||j|~:::~~|c;|~........,...............,....:.~;~|;;;cc|ccTTc|CPB###QBBQP@#B@N&amp;QN .</tspan>
+<tspan x="22" y="238.0">     c ~&amp;#EE&amp;&amp;&amp;E#P#EE#C~|c||;|;|||c|||;|:::.,....,...........,...,,:;~;;::j~|;CjcjTjj|cj2B&amp;QE#B#EP@BB#jENC,</tspan>
+<tspan x="22" y="245.0">        TB#&amp;E&amp;&amp;&amp;#a&amp;PPEP:||||cjjccc;|:|~;~,;,,....................,,,;~~~~;;;j;c|jj|cT;c.jB####QQ#&amp;Q@Q#B. .</tspan>
+<tspan x="22" y="252.0">         .Q&amp;&amp;P#&amp;P2##a#Pcc|cj|c|c||~~.~.,,,.,,...................,,,.~,:.~.,.;,.~.|;;;~|~|aQ&amp;&amp;&amp;aQQ&amp;#Q#&amp;Q</tspan>
+<tspan x="22" y="259.0">          TE&amp;C&amp;E&amp;aE2j&amp;E;j|;c;::~.,.........,...................,............;jjaC...,:~,:~#BQ&amp;EE&amp;##QQ&amp;2</tspan>
+<tspan x="22" y="266.0">           j@PEEQa2PCNC:;,:...........................,.,.,.........;|TTaEQNNNEa2EEa;.~;~..PQQBP&amp;##Q##a</tspan>
+<tspan x="22" y="273.0">           .P&amp;EE#22E&amp;#c::...C2Tc|CCCCCT...............:......cCC2PEN@Q@@N@N@EEaPCc2EBB2~;||cQ@BB&amp;#QQ##P</tspan>
+<tspan x="22" y="280.0">             &amp;2&amp;#CaBQ&amp;...~jQEEEE#@NNNNNNNNNBQP2j:T....;~,.:~#PE&amp;#Q#@N@N@&amp;2c..........~a#C|T.~NQQ#B##&amp;&amp;T</tspan>
+<tspan x="22" y="287.0">            .&amp;P&amp;&amp;CEBac.j&amp;&amp;QaCPaC2CCTTCCPP&amp;#&amp;PPQ&amp;E#2jT.,~:;TP#&amp;EQ##Pa2T,.........,~,,;|:c;,c:,a&amp;B#####@ .</tspan>
+<tspan x="22" y="294.0">            .j&amp;CEEQET|jP|;..............,:|j2a2TCEaPC..,.jTPPP2j|;;,c;||cj2aEaECcjTjcj;c|cc~:TPQ@&amp;E##22</tspan>
+<tspan x="22" y="301.0">            .Q&amp;P&amp;#Q2~~C;~;;...;C2CCCjjCaaaj:cjTTjc;||~TjjjTC2j||cTCaCCa&amp;&amp;a2CcTcjaPP2CTjT~c||c:aT@Q&amp;Q&amp;&amp;j</tspan>
+<tspan x="22" y="308.0">           T.@&amp;PPQP,~~;|jCj:aE2jaE##E&amp;PTjjEaTjTjTj|;cCCCCcjTTjCT2P2CP2#@PENNP.j#PCc2TCTT|T~;c.aCE#&amp;QCNj</tspan>
+<tspan x="22" y="315.0">           T~aPEPBE:;:~cjTjECCEC.NE2##Q.2PP2aTTTTCjC~c;:~:TCTTC2C2E2c.&amp;@NN@NE;T2@@PTcjjT;~:|~,;C&amp;Na&amp;TN.a</tspan>
+<tspan x="22" y="322.0">           cN&amp;#22QP.~,;cc||aPaP2c&amp;@NNN@CaCPPPjjjTCCC......TaCcjTa#aTCjjP&amp;Eaa2T;,...;cTjj,::;,.jCQN~PT#j2</tspan>
+<tspan x="22" y="329.0">          2.aTP22Q&amp;.~:|,:~;;:~,.........cC2CcTcccT2T,.....C2cc||j;cTTT,.......~ccT||;~.::~,::,c;@@~22aca</tspan>
+<tspan x="22" y="336.0">          j.PPPC&amp;B@.~::......:;cCa2a2aPaT|..~:..:cC|,.:...22c;,|~|j|cT2PPaP2aC2aCc~,,.,~:,~;,:|cNQ|cCP.P</tspan>
+<tspan x="22" y="343.0">          a:aP2.PEN;~;.,.........................TCc,.~..;22T,.~.,~;;,,...,.,..,..:.,::~:~:;j;|:NEcT~Q.T</tspan>
+<tspan x="22" y="350.0">           jCC2.PCQC,c::.:.......................TCT;...,|a2Cc.,:;;c:~::,::.:~;|~,~.|~;~~;:;j;c.NEc2TE;C</tspan>
+<tspan x="22" y="357.0">           |aTC..|22,j;;.;.....................,;TTT~..,,;2aCC..;|~c:;~~:~:,~;;;;~||;:~~:;:~jT|;NEaEEC|E</tspan>
+<tspan x="22" y="364.0">            ;PT.~.:2.|;;,;,...............~.,..;caTc..,.~,T22T.;:|,;~:~;::::;:,:;~::,::~;~:;cT~;NE@ajTE</tspan>
+<tspan x="22" y="371.0">            C;P.T.:P~c:|::,,........,..::;|;,.|CCPT:..~.:,j2CTc|,~.~:::~:::,|:~:::::;;:|;~~|;jjj@&amp;aPC2a</tspan>
+<tspan x="22" y="378.0">            P.E:c|,P.T:~:;:~........,.,,...~..C2cj,..,,.,,,|Tj2P2T;;~;~~:;~,;,~,~~::::~c;|;||jCTNP;ET#</tspan>
+<tspan x="22" y="385.0">             ,T....E,cc;,|:~.,......,.....,~aQP;TT.~.,....,|CC;2EPTTc;|;~;~~|,~,;~~~;;|ccjcccTjj@aPTcE</tspan>
+<tspan x="22" y="392.0">              C....a;j|~:|,|.:,..........,TCNc..PC:;;~~~.~|TCTT.CNC|TTjc||;||:;~;|;~|cccjcjjjjjCNj2;TE</tspan>
+<tspan x="22" y="399.0">              2....2Pc||,c,c:;:.....,.~.:cT:P@a2@aCT|||;cjTCa@&amp;@NCc~:TjTjc|j;|c~;c|cjjTTTjjjTcTjQ~jja</tspan>
+<tspan x="22" y="406.0">               |...##|;|:c;c~c:,..:,|.|~c|;~,~TCaPEaTcjjTCE#BPaj;.:~~|jTjjcj|ccc|jcj|jccjcTCjj2c@cPa2</tspan>
+<tspan x="22" y="413.0">                 a P@:T|.c~|;||,~:::,.~cc~:.....,.E#N#&amp;#@NB&amp;ETTc~,,~:~|jTjCTjjTTjjjjcj|jjjTTaC2j&amp;</tspan>
+<tspan x="22" y="420.0">                   ;NjCj~;;;;;|,~~::.,:,.,.:.|;2&amp;a&amp;NB@NEE&amp;Pa&amp;BPEEPcCTT~|~|TCTjTTc||j|c|jjTCCCaa&amp;2</tspan>
+<tspan x="22" y="427.0">                   .#C2Tjj;;;;|;,~:,...|..:j22PCP&amp;PCC2TCCT22CPC22aEE2&amp;P&amp;2Cj~cTTc|ccj||cjjTTaaTEaa</tspan>
+<tspan x="22" y="434.0">                    QEaaCj~|~||;::,....,cEEaaa2N@E2CCCPaCa2aP2aE&amp;PaaacjC#PE#:;ccc|c|jjjj22jP22EPj</tspan>
+<tspan x="22" y="441.0">                    TE2a2C||~;;;;;:;,,C&amp;&amp;aaa#&amp;B&amp;aaCC2aTCC22PPE#&amp;BB@@NNNNNQ&amp;Na:;~|cTcjTTjaaT&amp;a2EE</tspan>
+<tspan x="22" y="448.0">                     E&amp;aa22;.~,|,~,|,.aQQaENNNNQ#NQN@@EBQ@NBE2P22P&amp;NNQ2jjPQ@&amp;;;~|jjTjCcTaCPEPaPa</tspan>
+<tspan x="22" y="455.0">                     2&amp;E2CaccC;:,~:~:.a&amp;aTjc.C2P2j:..........;Ta#&amp;PC~.;cTTE&amp;2T;|cTjTCaTPPE&amp;EaP#</tspan>
+<tspan x="22" y="462.0">                      C&amp;EC2CTc~.:::,~.c222TT~|~.;caEB&amp;222aa2PaCj|..,;;|cjj2j|c:||CcT2CaPENEQP&amp;</tspan>
+<tspan x="22" y="469.0">                       T#QE2&amp;2:.;.,.::||;j||:j|;|....jCaPaPaTcj;,~~c||cjjjcj|c|j;aC2aa&amp;EB#E&amp;T</tspan>
+<tspan x="22" y="476.0">                        CENEEPT:,~..,:;||j||,;;Tc|aPPEN@E#&amp;&amp;#aPPE2;Ccjcj|jCj;c|Cj22PaaQ#NNPa</tspan>
+<tspan x="22" y="483.0">                          2QN#Pj|jc..,TcC2|c:C;aPETNPPEE@PQEPaCPCTTCajac|~2a,TCjC2aEEEB&amp;QC</tspan>
+<tspan x="22" y="490.0">                           j#QNEajTjj~|c|CT~jj,TTC|PPPE#&amp;E&amp;P2Q2C2c2TTcaTc:j@cTEcaPEE#@B&amp;,</tspan>
+<tspan x="22" y="497.0">                             T&amp;N@@PCC2ja~2ajc;...;.:.:#2&amp;TaPTacT~~c||~|CP2c#aC&amp;a&amp;&amp;NN&amp;Qa</tspan>
+<tspan x="22" y="504.0">                               T2@N#Qa2T2PP.cQ...~.c,.j.2:cc;:.;:|cc;jTjCNj#PPEENNN@.</tspan>
+<tspan x="22" y="511.0">                                 ;#QNN@##EEE&amp;2a:.:.:.....,:.~.||~;;cC2&amp;#EQPEjQNNNPa</tspan>
+<tspan x="22" y="518.0">                                   TEN@NBN@##&amp;PP|acjT||jTjTCc.cT~CTCaEPENQ#N@NNBP</tspan>
+<tspan x="22" y="525.0">                                      ##N@@NNN&amp;&amp;2NCaCPaa2CE2;2|#;P2CC#PNNNNN@@P</tspan>
+<tspan x="22" y="532.0">                                       jE@N@NNNN@@PNQPP#PENaQ2#PTPPaNN#NNNNN2C</tspan>
+<tspan x="22" y="539.0">                                          P&amp;@NNNNNNNNBN@NNNB##QN@NNNBNNNN&amp;C2</tspan>
+<tspan x="22" y="546.0">                                            P2&amp;NNNNNNNNNNN@NNNNNBNN@@NNET</tspan>
+<tspan x="22" y="553.0">                                                CE&amp;&amp;NNNNNNNNNNNNNNNN2j</tspan>
+<tspan x="22" y="560.0">                                                     EEP#@N@NE&amp;Ea2</tspan>
 </text>
-<text x="493.3" y="33" class="text" xml:space="preserve">
-<tspan x="493.3" y="33"><tspan class="text">harsh@vats </tspan><tspan class="cc">-------------------------------------------------</tspan></tspan>
-<tspan x="493.3" y="53"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ...................................... </tspan><tspan class="value">macOS, iOS, Web</tspan></tspan>
-<tspan x="493.3" y="73"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">26 years, 0 months, 20 days</tspan></tspan>
-<tspan x="493.3" y="93"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: .............................................. </tspan><tspan class="value">India</tspan></tspan>
-<tspan x="493.3" y="113"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">Technical AI Engineer</tspan></tspan>
-<tspan x="493.3" y="133"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ......................................... </tspan><tspan class="value">Claude Code</tspan></tspan>
-<tspan x="493.3" y="153"><tspan class="cc">.</tspan></tspan>
-<tspan x="493.3" y="173"><tspan class="cc">. </tspan><tspan class="key">AI.Workflow</tspan><tspan class="cc">: ............... </tspan><tspan class="value">Claude Code, AI coding agents</tspan></tspan>
-<tspan x="493.3" y="193"><tspan class="cc">. </tspan><tspan class="key">AI.Building</tspan><tspan class="cc">: ....... </tspan><tspan class="value">LLM features, OpenAI API, Document AI</tspan></tspan>
-<tspan x="493.3" y="213"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">: ................. </tspan><tspan class="value">TypeScript, Python, C#, Swift</tspan></tspan>
-<tspan x="493.3" y="233"><tspan class="cc">. </tspan><tspan class="key">Stack.Web</tspan><tspan class="cc">: ............... </tspan><tspan class="value">React, Next.js, Node.js, NestJS</tspan></tspan>
-<tspan x="493.3" y="253"><tspan class="cc">. </tspan><tspan class="key">Stack.Data</tspan><tspan class="cc">: ................... </tspan><tspan class="value">PostgreSQL, MySQL, MongoDB</tspan></tspan>
-<tspan x="493.3" y="273"><tspan class="cc">. </tspan><tspan class="key">Stack.Cloud</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">Vercel, GCP, AWS</tspan></tspan>
-<tspan x="493.3" y="293"><tspan class="cc">.</tspan></tspan>
-<tspan x="493.3" y="313"><tspan class="cc">. </tspan><tspan class="key">Projects</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">WOYM, NewsGamer, Stacks</tspan></tspan>
-<tspan x="493.3" y="333"><tspan class="cc">.</tspan></tspan>
-<tspan x="493.3" y="353"><tspan class="cc">- </tspan><tspan class="text">Contact </tspan><tspan class="cc">--------------------------------------------------</tspan></tspan>
-<tspan x="493.3" y="373"><tspan class="cc">. </tspan><tspan class="key">Website</tspan><tspan class="cc">: ........................................ </tspan><tspan class="value">hvats.in</tspan></tspan>
-<tspan x="493.3" y="393"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">harsh-vats-02b210150</tspan></tspan>
-<tspan x="493.3" y="413"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: .................................... </tspan><tspan class="value">harshvats2000</tspan></tspan>
-<tspan x="493.3" y="433"><tspan class="cc">.</tspan></tspan>
-<tspan x="493.3" y="453"><tspan class="cc">- </tspan><tspan class="text">GitHub Stats </tspan><tspan class="cc">---------------------------------------------</tspan></tspan>
-<tspan x="493.3" y="473"><tspan class="cc">. </tspan><tspan class="key">Contributions</tspan><tspan class="cc">: ..... </tspan><tspan class="value">4,769</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: ............... </tspan><tspan class="value">14</tspan></tspan>
-<tspan x="493.3" y="493"><tspan class="cc">. </tspan><tspan class="key">This year</tspan><tspan class="cc">: ......... </tspan><tspan class="value">1,825</tspan><tspan class="cc"> | </tspan><tspan class="key">Since</tspan><tspan class="cc">: ............. </tspan><tspan class="value">Dec 2018</tspan></tspan>
+<text x="449.3" y="66.5" class="text" xml:space="preserve">
+<tspan x="449.3" y="66.5"><tspan class="text">harsh@vats </tspan><tspan class="cc">-------------------------------------------------</tspan></tspan>
+<tspan x="449.3" y="86.5"><tspan class="cc">. </tspan><tspan class="key">OS</tspan><tspan class="cc">: ...................................... </tspan><tspan class="value">macOS, iOS, Web</tspan></tspan>
+<tspan x="449.3" y="106.5"><tspan class="cc">. </tspan><tspan class="key">Uptime</tspan><tspan class="cc">: ...................... </tspan><tspan class="value">26 years, 0 months, 20 days</tspan></tspan>
+<tspan x="449.3" y="126.5"><tspan class="cc">. </tspan><tspan class="key">Host</tspan><tspan class="cc">: .............................................. </tspan><tspan class="value">India</tspan></tspan>
+<tspan x="449.3" y="146.5"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">Technical AI Engineer</tspan></tspan>
+<tspan x="449.3" y="166.5"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan><tspan class="cc">: ......................................... </tspan><tspan class="value">Claude Code</tspan></tspan>
+<tspan x="449.3" y="186.5"><tspan class="cc">.</tspan></tspan>
+<tspan x="449.3" y="206.5"><tspan class="cc">. </tspan><tspan class="key">AI.Workflow</tspan><tspan class="cc">: ............... </tspan><tspan class="value">Claude Code, AI coding agents</tspan></tspan>
+<tspan x="449.3" y="226.5"><tspan class="cc">. </tspan><tspan class="key">AI.Building</tspan><tspan class="cc">: ....... </tspan><tspan class="value">LLM features, OpenAI API, Document AI</tspan></tspan>
+<tspan x="449.3" y="246.5"><tspan class="cc">. </tspan><tspan class="key">Languages</tspan><tspan class="cc">: ................. </tspan><tspan class="value">TypeScript, Python, C#, Swift</tspan></tspan>
+<tspan x="449.3" y="266.5"><tspan class="cc">. </tspan><tspan class="key">Stack.Web</tspan><tspan class="cc">: ............... </tspan><tspan class="value">React, Next.js, Node.js, NestJS</tspan></tspan>
+<tspan x="449.3" y="286.5"><tspan class="cc">. </tspan><tspan class="key">Stack.Data</tspan><tspan class="cc">: ................... </tspan><tspan class="value">PostgreSQL, MySQL, MongoDB</tspan></tspan>
+<tspan x="449.3" y="306.5"><tspan class="cc">. </tspan><tspan class="key">Stack.Cloud</tspan><tspan class="cc">: ............................ </tspan><tspan class="value">Vercel, GCP, AWS</tspan></tspan>
+<tspan x="449.3" y="326.5"><tspan class="cc">.</tspan></tspan>
+<tspan x="449.3" y="346.5"><tspan class="cc">. </tspan><tspan class="key">Projects</tspan><tspan class="cc">: ........................ </tspan><tspan class="value">WOYM, NewsGamer, Stacks</tspan></tspan>
+<tspan x="449.3" y="366.5"><tspan class="cc">.</tspan></tspan>
+<tspan x="449.3" y="386.5"><tspan class="cc">- </tspan><tspan class="text">Contact </tspan><tspan class="cc">--------------------------------------------------</tspan></tspan>
+<tspan x="449.3" y="406.5"><tspan class="cc">. </tspan><tspan class="key">Website</tspan><tspan class="cc">: ........................................ </tspan><tspan class="value">hvats.in</tspan></tspan>
+<tspan x="449.3" y="426.5"><tspan class="cc">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="cc">: ........................... </tspan><tspan class="value">harsh-vats-02b210150</tspan></tspan>
+<tspan x="449.3" y="446.5"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan><tspan class="cc">: .................................... </tspan><tspan class="value">harshvats2000</tspan></tspan>
+<tspan x="449.3" y="466.5"><tspan class="cc">.</tspan></tspan>
+<tspan x="449.3" y="486.5"><tspan class="cc">- </tspan><tspan class="text">GitHub Stats </tspan><tspan class="cc">---------------------------------------------</tspan></tspan>
+<tspan x="449.3" y="506.5"><tspan class="cc">. </tspan><tspan class="key">Contributions</tspan><tspan class="cc">: ..... </tspan><tspan class="value">4,769</tspan><tspan class="cc"> | </tspan><tspan class="key">Followers</tspan><tspan class="cc">: ............... </tspan><tspan class="value">14</tspan></tspan>
+<tspan x="449.3" y="526.5"><tspan class="cc">. </tspan><tspan class="key">This year</tspan><tspan class="cc">: ......... </tspan><tspan class="value">1,825</tspan><tspan class="cc"> | </tspan><tspan class="key">Since</tspan><tspan class="cc">: ............. </tspan><tspan class="value">Dec 2018</tspan></tspan>
 </text></svg>

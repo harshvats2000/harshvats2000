@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [master]
-    paths: [generate.py, ascii.txt]
+    paths: [generate.py, ascii_light.txt, ascii_dark.txt]
 
 permissions:
   contents: write

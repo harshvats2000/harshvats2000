@@ -130,12 +130,15 @@ def info_lines(today, stats):
 
 
 def render(theme, ascii_lines, lines):
-    font_size, line_h, char_w, pad = 16, 20, 9.7, 18
+    font_size, line_h, char_w, pad = 16, 20, 9.7, 22
+    # the portrait uses small type so it can carry more detail
+    a_font, a_line, a_char_w = 6, 7, 3.62
     ascii_cols = max(len(l) for l in ascii_lines)
-    info_x = pad + (ascii_cols + 3) * char_w
-    rows = max(len(ascii_lines), len(lines))
+    info_x = pad + ascii_cols * a_char_w + 3 * char_w
+    art_h = len(ascii_lines) * a_line
+    info_h = len(lines) * line_h
     width = round(info_x + WIDTH * char_w + pad)
-    height = pad * 2 + rows * line_h
+    height = round(pad * 2 + max(art_h, info_h))
     t = theme
     out = [
         f'<svg xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, \'Liberation Mono\', monospace" '
@@ -146,15 +149,16 @@ def render(theme, ascii_lines, lines):
         "</style>",
         f'<rect width="{width}" height="{height}" rx="15" fill="{t["bg"]}" stroke="{t["border"]}"/>',
     ]
-    y0 = pad + line_h - 5
-    out.append(f'<text x="{pad}" y="{y0}" class="text" xml:space="preserve">')
+    ay = pad + (height - 2 * pad - art_h) / 2 + a_line - 1
+    out.append(f'<text x="{pad}" y="{ay:.1f}" class="text" font-size="{a_font}px" xml:space="preserve">')
     for i, l in enumerate(ascii_lines):
-        out.append(f'<tspan x="{pad}" y="{y0 + i * line_h}">{escape(l)}</tspan>')
+        out.append(f'<tspan x="{pad}" y="{ay + i * a_line:.1f}">{escape(l)}</tspan>')
     out.append("</text>")
-    out.append(f'<text x="{info_x:.1f}" y="{y0}" class="text" xml:space="preserve">')
+    iy = pad + (height - 2 * pad - info_h) / 2 + line_h - 5
+    out.append(f'<text x="{info_x:.1f}" y="{iy:.1f}" class="text" xml:space="preserve">')
     for i, segs in enumerate(lines):
         inner = "".join(f'<tspan class="{c}">{escape(s)}</tspan>' for c, s in segs)
-        out.append(f'<tspan x="{info_x:.1f}" y="{y0 + i * line_h}">{inner}</tspan>')
+        out.append(f'<tspan x="{info_x:.1f}" y="{iy + i * line_h:.1f}">{inner}</tspan>')
     out.append("</text></svg>")
     return "\n".join(out) + "\n"
 
@@ -162,9 +166,11 @@ def render(theme, ascii_lines, lines):
 def main():
     here = os.path.dirname(os.path.abspath(__file__))
     today = dt.date.today()
-    ascii_lines = open(os.path.join(here, "ascii.txt")).read().rstrip("\n").split("\n")
     lines = info_lines(today, github_stats(today))
     for name, theme in THEMES.items():
+        # dark mode uses inverted art: on a dark background, dense characters read as light tones
+        art = os.path.join(here, "ascii_dark.txt" if name.startswith("dark") else "ascii_light.txt")
+        ascii_lines = open(art).read().rstrip("\n").split("\n")
         with open(os.path.join(here, name), "w") as f:
             f.write(render(theme, ascii_lines, lines))
     print(f"wrote {', '.join(THEMES)}")
